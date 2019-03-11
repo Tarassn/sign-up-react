@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100vh;
+  padding: 30px;
+  background: whitesmoke;
+}
+
+label{
+  margin-left:10px;
+  color:red;
+}
+.btn-outline-info{
+  margin-top: 20px;
+  width: 200px;
+}
